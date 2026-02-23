@@ -22,14 +22,14 @@
 
 <br><br>
 
-## 🎥 Demo
+## 🖼️ Screenshot
 
-<video width="640" controls poster="https://via.placeholder.com/640x360/0077b5/ffffff?text=HF+Coder+GUI+Demo" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15)">
-  <source src="https://www.dropbox.com/scl/fi/wj1t7bidduohwr2z51zo4/Agent.mp4?rlkey=s2irzvdoy5f5rz59h4v04fkhx&st=ajfa57cz&dl=1" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://uploadkon.ir/uploads/f6f423_261.png" 
+     alt="HF Coder GUI Application Screenshot" 
+     width="640"
+     style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); max-width: 100%; height: auto">
 <br>
-<sub>🎥 Demo: HF Coder GUI generating code with Hugging Face models</sub>
+<sub>📸 HF Coder GUI: Clean interface for generating code with Hugging Face models</sub>
 
 </div>
 
