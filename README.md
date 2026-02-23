@@ -22,11 +22,14 @@
 
 <br><br>
 
-<!-- ⚠️ Replace the src below with a permanent video URL (see note below) -->
-<video width="640" controls poster="https://via.placeholder.com/640x360/0077b5/ffffff?text=HF+Coder+GUI+Demo">
-  <source src="https://storage.filebin.net/filebin/622adbd92d6720a850a04de9408da539570704e9748c6ff4555e8489de177471?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK352fd2505074fc9dde7fd2cb%2F20260223%2Fhel1-dc4%2Fs3%2Faws4_request&X-Amz-Date=20260223T125145Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D900&response-content-disposition=inline%3B%20filename%3D%22Agent.mp4%22&response-content-type=video%2Fmp4&x-id=GetObject&X-Amz-Signature=81982e127e798f61d3bc141de0e5dd162f72bf8294fc3c47e7909b044604b00e" type="video/mp4">
+## 🎥 Demo
+
+<video width="640" controls poster="https://via.placeholder.com/640x360/0077b5/ffffff?text=HF+Coder+GUI+Demo" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15)">
+  <source src="https://www.dropbox.com/scl/fi/wj1t7bidduohwr2z51zo4/Agent.mp4?rlkey=s2irzvdoy5f5rz59h4v04fkhx&st=ajfa57cz&dl=1" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br>
+<sub>🎥 Demo: HF Coder GUI generating code with Hugging Face models</sub>
 
 </div>
 
